@@ -12,5 +12,5 @@ A machine learning project using ANN to classify mobile prices based on features
 ## Results
 - Model accuracy, confusion matrix, etc.
 
-## Author
-Your Name
+Dilish Jose
+
